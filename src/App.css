@@ -1,0 +1,42 @@
+.inp{
+    padding: 5px;
+    border-radius: 7px;
+    width: 14rem;
+    background-color: #f9f9f9;
+}
+.classes{
+    height: 85vh;
+    width: 100%;
+}
+.space{
+	display: flex;
+}
+.row{
+	display: flex;
+	position: absolute;
+	left: 20rem;
+	top: 119rem;
+	border: 3px solid lightblue;
+	border-radius: 10px;
+}
+.footer{
+	position: absolute;
+	top: 165rem;
+	height: 40vh;
+	width: 100%;
+	background: rgba(0,0,0,0.7);
+}
+.contact{
+position: absolute;
+top: 7rem;
+left: 58rem;
+color: white;
+}
+.contact h1{
+	font-weight: 500;
+	font-size: 24px;
+}
+.contact h2{
+	font-weight: 500;
+	font-size: 16px;
+}
